@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/7a4f417f89d844d7842d1f33fdc84888/artifacts
+end_time: 1723102662871
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 7a4f417f89d844d7842d1f33fdc84888
+run_name: victorious-hound-275
+run_uuid: 7a4f417f89d844d7842d1f33fdc84888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723102657552
+status: 3
+tags: []
+user_id: codespace

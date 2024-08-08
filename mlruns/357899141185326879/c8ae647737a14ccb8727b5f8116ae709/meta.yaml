@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/c8ae647737a14ccb8727b5f8116ae709/artifacts
+end_time: 1723110604957
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: c8ae647737a14ccb8727b5f8116ae709
+run_name: amusing-fly-380
+run_uuid: c8ae647737a14ccb8727b5f8116ae709
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723110599311
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/126d1fd6c61444839f8a5b276a99a8ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 126d1fd6c61444839f8a5b276a99a8ec
+run_name: incongruous-bird-113
+run_uuid: 126d1fd6c61444839f8a5b276a99a8ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723091394881
+status: 1
+tags: []
+user_id: codespace

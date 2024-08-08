@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/1ce92a8e3042490fa2cc15be7722408e/artifacts
+end_time: 1723038536217
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 1ce92a8e3042490fa2cc15be7722408e
+run_name: crawling-perch-534
+run_uuid: 1ce92a8e3042490fa2cc15be7722408e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723038536208
+status: 3
+tags: []
+user_id: codespace

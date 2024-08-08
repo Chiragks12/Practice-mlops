@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/f10bed39aacf40dabceec2e5ff165a13/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: f10bed39aacf40dabceec2e5ff165a13
+run_name: unique-squirrel-512
+run_uuid: f10bed39aacf40dabceec2e5ff165a13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723039427315
+status: 1
+tags: []
+user_id: codespace

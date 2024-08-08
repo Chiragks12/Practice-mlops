@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/843c23e5ebf64a5c9bf445b15a6d561a/artifacts
+end_time: 1723099535999
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 843c23e5ebf64a5c9bf445b15a6d561a
+run_name: mercurial-dove-160
+run_uuid: 843c23e5ebf64a5c9bf445b15a6d561a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723099535984
+status: 3
+tags: []
+user_id: codespace

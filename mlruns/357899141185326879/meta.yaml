@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Practice-mlops/mlruns/357899141185326879
+creation_time: 1723096487088
+experiment_id: '357899141185326879'
+last_update_time: 1723096487088
+lifecycle_stage: active
+name: my_experiment_with_systemmetrics

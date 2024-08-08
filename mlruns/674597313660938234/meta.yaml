@@ -1,0 +1,6 @@
+artifact_location: file:///workspaces/Practice-mlops/mlruns/674597313660938234
+creation_time: 1723038389685
+experiment_id: '674597313660938234'
+last_update_time: 1723038389685
+lifecycle_stage: active
+name: my_experiment

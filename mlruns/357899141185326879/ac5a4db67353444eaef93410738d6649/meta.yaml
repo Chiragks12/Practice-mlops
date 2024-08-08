@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/ac5a4db67353444eaef93410738d6649/artifacts
+end_time: 1723108955092
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: ac5a4db67353444eaef93410738d6649
+run_name: omniscient-pig-710
+run_uuid: ac5a4db67353444eaef93410738d6649
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723108949797
+status: 3
+tags: []
+user_id: codespace
