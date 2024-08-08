@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723127975482
+current_stage: None
+description: null
+last_updated_timestamp: 1723127975482
+name: LogisticRegressionModelwith_systemmetrics
+run_id: b56710bac1e44061ba9794725c97926f
+run_link: null
+source: file:///workspaces/Practice-mlops/mlruns/357899141185326879/b56710bac1e44061ba9794725c97926f/artifacts/logistic_regression_modelwithsystemmetrics
+status: READY
+status_message: null
+storage_location: file:///workspaces/Practice-mlops/mlruns/357899141185326879/b56710bac1e44061ba9794725c97926f/artifacts/logistic_regression_modelwithsystemmetrics
+user_id: null
+version: 7

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/b54a106aecc145c1b421cc40a49dad94/artifacts
+end_time: 1723127982246
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: b54a106aecc145c1b421cc40a49dad94
+run_name: sincere-dove-490
+run_uuid: b54a106aecc145c1b421cc40a49dad94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723127982231
+status: 3
+tags: []
+user_id: codespace

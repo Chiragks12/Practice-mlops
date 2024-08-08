@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/62587a34201b4ea5bf2c6ead5b5e5b88/artifacts
+end_time: 1723127934328
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 62587a34201b4ea5bf2c6ead5b5e5b88
+run_name: suave-hen-874
+run_uuid: 62587a34201b4ea5bf2c6ead5b5e5b88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723127929999
+status: 3
+tags: []
+user_id: codespace

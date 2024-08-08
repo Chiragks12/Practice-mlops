@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/2a8789ef68be486d9599d136cd541911/artifacts
+end_time: 1723127975494
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 2a8789ef68be486d9599d136cd541911
+run_name: mercurial-frog-281
+run_uuid: 2a8789ef68be486d9599d136cd541911
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723127970392
+status: 3
+tags: []
+user_id: codespace
