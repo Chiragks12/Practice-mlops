@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/364454cec1be460e802a6c41bbd90c4d/artifacts
+end_time: 1723115701984
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 364454cec1be460e802a6c41bbd90c4d
+run_name: selective-turtle-133
+run_uuid: 364454cec1be460e802a6c41bbd90c4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723115697435
+status: 3
+tags: []
+user_id: codespace

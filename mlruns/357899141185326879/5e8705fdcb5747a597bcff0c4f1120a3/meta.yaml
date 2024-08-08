@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/5e8705fdcb5747a597bcff0c4f1120a3/artifacts
+end_time: 1723113329801
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 5e8705fdcb5747a597bcff0c4f1120a3
+run_name: monumental-pig-362
+run_uuid: 5e8705fdcb5747a597bcff0c4f1120a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723113321672
+status: 3
+tags: []
+user_id: codespace

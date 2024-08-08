@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/188af16883124e91987aa529dc583640/artifacts
+end_time: 1723113314783
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 188af16883124e91987aa529dc583640
+run_name: abundant-steed-414
+run_uuid: 188af16883124e91987aa529dc583640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723113311053
+status: 3
+tags: []
+user_id: codespace

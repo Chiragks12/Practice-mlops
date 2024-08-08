@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/8aa80b46265f449d8201f7be1c9e3b44/artifacts
+end_time: 1723115643486
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 8aa80b46265f449d8201f7be1c9e3b44
+run_name: righteous-dove-905
+run_uuid: 8aa80b46265f449d8201f7be1c9e3b44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723115639222
+status: 3
+tags: []
+user_id: codespace
