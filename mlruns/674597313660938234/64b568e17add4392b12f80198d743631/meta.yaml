@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/64b568e17add4392b12f80198d743631/artifacts
+end_time: 1723190109665
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 64b568e17add4392b12f80198d743631
+run_name: capricious-slug-172
+run_uuid: 64b568e17add4392b12f80198d743631
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723190106156
+status: 3
+tags: []
+user_id: codespace

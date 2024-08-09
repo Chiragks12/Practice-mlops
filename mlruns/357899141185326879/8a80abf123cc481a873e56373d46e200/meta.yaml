@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/8a80abf123cc481a873e56373d46e200/artifacts
+end_time: 1723177265470
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 8a80abf123cc481a873e56373d46e200
+run_name: puzzled-frog-235
+run_uuid: 8a80abf123cc481a873e56373d46e200
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723177261987
+status: 3
+tags: []
+user_id: codespace

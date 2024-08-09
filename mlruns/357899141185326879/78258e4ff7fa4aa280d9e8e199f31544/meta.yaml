@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/78258e4ff7fa4aa280d9e8e199f31544/artifacts
+end_time: 1723177204601
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 78258e4ff7fa4aa280d9e8e199f31544
+run_name: upbeat-fawn-77
+run_uuid: 78258e4ff7fa4aa280d9e8e199f31544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723177204587
+status: 3
+tags: []
+user_id: codespace

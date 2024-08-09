@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/069a977a6fc5449280cc26fb2f4c2a04/artifacts
+end_time: 1723177153518
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 069a977a6fc5449280cc26fb2f4c2a04
+run_name: big-yak-697
+run_uuid: 069a977a6fc5449280cc26fb2f4c2a04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723177149916
+status: 3
+tags: []
+user_id: codespace

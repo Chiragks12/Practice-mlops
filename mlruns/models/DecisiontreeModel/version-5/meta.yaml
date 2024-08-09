@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1723190136444
+current_stage: None
+description: null
+last_updated_timestamp: 1723190136444
+name: DecisiontreeModel
+run_id: 83fb963a71264a12aa9159cd017e69cf
+run_link: null
+source: file:///workspaces/Practice-mlops/mlruns/357899141185326879/83fb963a71264a12aa9159cd017e69cf/artifacts/Decisiontree_model
+status: READY
+status_message: null
+storage_location: file:///workspaces/Practice-mlops/mlruns/357899141185326879/83fb963a71264a12aa9159cd017e69cf/artifacts/Decisiontree_model
+user_id: null
+version: 5

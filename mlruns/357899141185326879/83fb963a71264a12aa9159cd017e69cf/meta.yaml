@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/83fb963a71264a12aa9159cd017e69cf/artifacts
+end_time: 1723190136462
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 83fb963a71264a12aa9159cd017e69cf
+run_name: resilient-shrike-387
+run_uuid: 83fb963a71264a12aa9159cd017e69cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723190132677
+status: 3
+tags: []
+user_id: codespace
