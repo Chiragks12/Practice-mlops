@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/caca8607b6a145379383d2700408c3f4/artifacts
+end_time: 1723200504725
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: caca8607b6a145379383d2700408c3f4
+run_name: rare-shrew-805
+run_uuid: caca8607b6a145379383d2700408c3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723200501006
+status: 3
+tags: []
+user_id: codespace

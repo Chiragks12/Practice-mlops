@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/c86a8658579f4f2e910208f226c43027/artifacts
+end_time: 1723374789103
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: c86a8658579f4f2e910208f226c43027
+run_name: skittish-ray-565
+run_uuid: c86a8658579f4f2e910208f226c43027
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723374789093
+status: 3
+tags: []
+user_id: codespace

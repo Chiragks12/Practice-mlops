@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/58e7598e4ab44d85a1b4bf716ce18fe2/artifacts
+end_time: 1723202350498
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 58e7598e4ab44d85a1b4bf716ce18fe2
+run_name: calm-quail-621
+run_uuid: 58e7598e4ab44d85a1b4bf716ce18fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723202345009
+status: 3
+tags: []
+user_id: codespace

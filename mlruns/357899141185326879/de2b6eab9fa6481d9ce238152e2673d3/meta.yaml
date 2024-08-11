@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/de2b6eab9fa6481d9ce238152e2673d3/artifacts
+end_time: 1723200524625
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: de2b6eab9fa6481d9ce238152e2673d3
+run_name: capricious-pig-960
+run_uuid: de2b6eab9fa6481d9ce238152e2673d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723200519274
+status: 3
+tags: []
+user_id: codespace

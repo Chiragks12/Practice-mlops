@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/25bb5fe27aa541758f9f025c3fbf9577/artifacts
+end_time: 1723374796106
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 25bb5fe27aa541758f9f025c3fbf9577
+run_name: rogue-chimp-362
+run_uuid: 25bb5fe27aa541758f9f025c3fbf9577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723374792536
+status: 3
+tags: []
+user_id: codespace

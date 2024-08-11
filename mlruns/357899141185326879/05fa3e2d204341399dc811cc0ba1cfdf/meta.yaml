@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/05fa3e2d204341399dc811cc0ba1cfdf/artifacts
+end_time: 1723200535507
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 05fa3e2d204341399dc811cc0ba1cfdf
+run_name: bedecked-duck-644
+run_uuid: 05fa3e2d204341399dc811cc0ba1cfdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723200531845
+status: 3
+tags: []
+user_id: codespace

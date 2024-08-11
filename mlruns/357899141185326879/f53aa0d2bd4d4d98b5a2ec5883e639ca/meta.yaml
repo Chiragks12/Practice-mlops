@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/f53aa0d2bd4d4d98b5a2ec5883e639ca/artifacts
+end_time: 1723202350534
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: f53aa0d2bd4d4d98b5a2ec5883e639ca
+run_name: debonair-hare-438
+run_uuid: f53aa0d2bd4d4d98b5a2ec5883e639ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723202350524
+status: 3
+tags: []
+user_id: codespace

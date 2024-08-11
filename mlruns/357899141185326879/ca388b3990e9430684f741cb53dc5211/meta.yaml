@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/ca388b3990e9430684f741cb53dc5211/artifacts
+end_time: 1723374782654
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: ca388b3990e9430684f741cb53dc5211
+run_name: skittish-goat-743
+run_uuid: ca388b3990e9430684f741cb53dc5211
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723374778081
+status: 3
+tags: []
+user_id: codespace

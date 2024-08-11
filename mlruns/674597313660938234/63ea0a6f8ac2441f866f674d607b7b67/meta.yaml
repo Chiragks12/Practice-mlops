@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/674597313660938234/63ea0a6f8ac2441f866f674d607b7b67/artifacts
+end_time: 1723202329837
+entry_point_name: ''
+experiment_id: '674597313660938234'
+lifecycle_stage: active
+run_id: 63ea0a6f8ac2441f866f674d607b7b67
+run_name: clean-doe-957
+run_uuid: 63ea0a6f8ac2441f866f674d607b7b67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723202326035
+status: 3
+tags: []
+user_id: codespace

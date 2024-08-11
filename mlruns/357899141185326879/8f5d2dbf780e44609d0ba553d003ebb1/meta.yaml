@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/8f5d2dbf780e44609d0ba553d003ebb1/artifacts
+end_time: 1723200531817
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: 8f5d2dbf780e44609d0ba553d003ebb1
+run_name: adventurous-fowl-40
+run_uuid: 8f5d2dbf780e44609d0ba553d003ebb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723200528033
+status: 3
+tags: []
+user_id: codespace
