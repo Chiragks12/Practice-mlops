@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/Practice-mlops/mlruns/357899141185326879/b8507ededc824a61ac152902f9d069ff/artifacts
+end_time: 1723384706965
+entry_point_name: ''
+experiment_id: '357899141185326879'
+lifecycle_stage: active
+run_id: b8507ededc824a61ac152902f9d069ff
+run_name: loud-ape-416
+run_uuid: b8507ededc824a61ac152902f9d069ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723384702289
+status: 3
+tags: []
+user_id: codespace
